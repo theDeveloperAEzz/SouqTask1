@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">سوق تاسك 1</string>
+    <string name="communicate">التواصل</string>
+    <string name="share">مشاركه</string>
+    <string name="send">ارسال</string>
+    <string name="english">الانجليزيه</string>
+    <string name="arabic">العربيه</string>
+
+</resources>
